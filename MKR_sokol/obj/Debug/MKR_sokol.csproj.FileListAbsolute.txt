@@ -1,0 +1,9 @@
+C:\Users\Пётр\Documents\Visual Studio 2012\Projects\MKR_sokol\MKR_sokol\bin\Debug\MKR_sokol.exe.config
+C:\Users\Пётр\Documents\Visual Studio 2012\Projects\MKR_sokol\MKR_sokol\bin\Debug\MKR_sokol.exe
+C:\Users\Пётр\Documents\Visual Studio 2012\Projects\MKR_sokol\MKR_sokol\bin\Debug\MKR_sokol.pdb
+C:\Users\Пётр\Documents\Visual Studio 2012\Projects\MKR_sokol\MKR_sokol\obj\Debug\MKR_sokol.Properties.Resources.resources
+C:\Users\Пётр\Documents\Visual Studio 2012\Projects\MKR_sokol\MKR_sokol\obj\Debug\MKR_sokol.csproj.GenerateResource.Cache
+C:\Users\Пётр\Documents\Visual Studio 2012\Projects\MKR_sokol\MKR_sokol\obj\Debug\MKR_sokol.exe
+C:\Users\Пётр\Documents\Visual Studio 2012\Projects\MKR_sokol\MKR_sokol\obj\Debug\MKR_sokol.pdb
+C:\Users\Пётр\Documents\Visual Studio 2012\Projects\MKR_sokol\MKR_sokol\obj\Debug\MKR_sokol.csprojResolveAssemblyReference.cache
+C:\Users\Пётр\Documents\Visual Studio 2012\Projects\MKR_sokol\MKR_sokol\obj\Debug\MKR_sokol.Form1.resources
